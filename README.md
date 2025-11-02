@@ -22,8 +22,9 @@ A configurable customer search application built with React, TypeScript, and Sha
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd config-customer-finder
+git clone https://github.com/mukulchauuhan/Customer-Search-Portal.git
+cd Customer-Search-Portal
+npm install
 ```
 
 2. Install dependencies
@@ -120,7 +121,7 @@ results: {
 }
 ```
 
-## Design Decisions and Trade-offs
+## Design Decisions and Trade-offs That I took:
 
 ### 1. Strict Search Implementation
 - All search fields are required for exact matching
